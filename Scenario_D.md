@@ -1,8 +1,3 @@
----
-title: 'Scenario D: Student who wants to be put back to the course after being withdrawn'
-
----
-
 # Student who wants to be put back to the course after being withdrawn
 
 Hi Dennis,
@@ -17,4 +12,5 @@ If you need any guidance or help with the material, please don’t hesitate to r
 
 Best regards,  
 Jerome Alumbro  
-TIP101 Course Team  
+CodePath Support  
+[CodePath.org](https://www.codepath.org/)
