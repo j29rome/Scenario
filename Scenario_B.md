@@ -12,4 +12,5 @@ We truly empathize with your situation and wish we could offer more flexibility.
 
 Best regards,  
 Jerome Alumbro  
-Admissions Team  
+CodePath Support  
+[CodePath.org](https://www.codepath.org/)
