@@ -1,8 +1,3 @@
----
-title: 'Scenario E: Applicant doesn’t know what the next steps are'
-
----
-
 # Applicant doesn’t know what the next steps are
 
 Hi Jake,
@@ -30,4 +25,5 @@ If you have any further questions, don’t hesitate to reach out. We look forwar
 
 Best regards,  
 Jerome Alumbro  
-Admissions Team  
+CodePath Support  
+[CodePath.org](https://www.codepath.org/)
