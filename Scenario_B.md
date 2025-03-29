@@ -1,8 +1,3 @@
----
-title: 'Scenario B: Applicant who is outside of the US'
-
----
-
 # Applicant who is outside of the US
 
 Hi Jane,
