@@ -1,8 +1,3 @@
----
-title: 'Scenario C: Applicant who missed the deadline'
-
----
-
 # Applicant who missed the deadline
 
 Hi Anne,
@@ -19,4 +14,5 @@ Wishing you all the best in your internship search, and we hope to stay in touch
 
 Best regards,  
 Jerome Alumbro  
-Interview Prep Team  
+CodePath Support  
+[CodePath.org](https://www.codepath.org/) 
