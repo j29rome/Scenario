@@ -1,8 +1,3 @@
----
-title: Response to Request to Bump Up to Advanced Track
-
----
-
 # Response to Request to Bump Up to Advanced Track
 
 Hi John,
